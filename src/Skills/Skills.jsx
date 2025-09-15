@@ -254,7 +254,7 @@ const Skills = () => {
             </button>
             </Link>
 
-            <Link to='./contact'>
+            <Link to='/contact'>
             <button className="cursor-pointer border-2 border-blue-600 text-blue-600 px-8 py-4 rounded-full font-semibold hover:bg-blue-600 hover:text-white transition-all duration-300 transform hover:-translate-y-1">
               Let's Collaborate
             </button>
